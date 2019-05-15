@@ -1,2 +1,2 @@
-# mobilefruit-theme
-Ryuzine theme with an iOS feel.
+# mobilefruit
+Ryuzine theme with iOS and macOS look
